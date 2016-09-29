@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CompanionApp</string>
+
+    <string-array name="scheduleType_Array">
+        <item>Classes</item>
+        <item>Teachers</item>
+        <item>Rooms</item>
+        <item>Courses</item>
+    </string-array>
+</resources>
